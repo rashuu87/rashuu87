@@ -17,7 +17,7 @@ rashmi-sharma-0918a6229
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi-sharma-0198a6229" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rashuuuu87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rashuuuu87" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rashmi1807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rashmi1807" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<rashuuuu87>/https://www.geeksforgeeks.org/user/rashuuuu87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<rashuuuu87>/https://www.geeksforgeeks.org/user/rashuuuu87/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rashuuuu87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<rashuuuu87>/https://www.geeksforgeeks.org/user/rashuuuu87/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
