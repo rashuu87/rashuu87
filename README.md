@@ -1,7 +1,7 @@
-![MasterHead](https://camo.githubusercontent.com/85d8088f419078b5efe45c2ddfe32827519e04e0d1a014c577279f95fbba525a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f30312f31652f30323031316563383535343237376238633730626632326662313932313233632e676966)
+![MasterHead](https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904)
 <h1 align="center">Hi 👋, I'm Rashmi Sharma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*IO0G2ygwIml_NGAv26Na4w.gif">
+<img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashuu87&label=Profile%20views&color=0e75b6&style=flat" alt="rashuu87" /> </p>
 
 - 🌱 I’m currently learning **React.js, Node.js**
